@@ -9,3 +9,7 @@ Starbucks Clone projesidir.
 🧋Html, Css kullanıldı.
 
 🎉Bağlantı linkleri eklendi.
+
+
+https://github.com/user-attachments/assets/553500f7-3db1-48e6-9b62-bf2661ba35bf
+
