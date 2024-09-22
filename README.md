@@ -11,5 +11,6 @@ Starbucks Clone projesidir.
 🎉Bağlantı linkleri eklendi.
 
 
-https://github.com/user-attachments/assets/553500f7-3db1-48e6-9b62-bf2661ba35bf
 
+
+![Starbucks-colon](https://github.com/user-attachments/assets/585f0b34-67ee-4092-b37b-67738d0513b2)
